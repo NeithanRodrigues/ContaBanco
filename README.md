@@ -7,3 +7,5 @@
 6 - java ContaTerminal 
 
 Obs: No passo 4 altere o "local/do/arquivoContaBanco" para o nome da pasta em que está o repositório "ContaBanco".
+
+Feito por: Nathan Rodrigues (NeithanRodrigues)
